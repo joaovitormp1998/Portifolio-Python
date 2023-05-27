@@ -27,7 +27,10 @@ Aqui está um exemplo de como o aplicativo de lista de tarefas pode ser utilizad
 ---------
 
 **Digite a descrição da tarefa:** Ir ao Mercado Armazem
-*Exibe mensagem*
+#
+*Exibe mensagem*<br>
+
+
 Tarefa adicionada com sucesso!
 
 ---
@@ -49,8 +52,14 @@ Escolha uma opção: 4
 3. Marcar Tarefa como Concluída
 4. Exibir Tarefas
 5. Sair
-Escolha uma opção: 1
-Digite a descrição da tarefa: Ir ao Banco Pegar Dinheiro
+
+**Escolha uma opção:** 1
+
+**Digite a descrição da tarefa:** Ir ao Banco Pegar Dinheiro
+#
+*Exibe mensagem*<br>
+
+
 Tarefa adicionada com sucesso!
 
  Aplicativo de Lista de Tarefas 
@@ -59,9 +68,12 @@ Tarefa adicionada com sucesso!
 3. Marcar Tarefa como Concluída
 4. Exibir Tarefas
 5. Sair
-Escolha uma opção: 4
-#####0. [ ] Ir ao Mercado Armazem
-#####1. [ ] Ir ao Banco Pegar Dinheiro
+
+**Escolha uma opção:** 4
+
+0. [ ] Ir ao Mercado Armazem
+1. [ ] Ir ao Banco Pegar Dinheiro
+
 ---
 ##### Marcando  tarefa como concluida na lista e exibindo
 
@@ -71,8 +83,11 @@ Escolha uma opção: 4
 3. Marcar Tarefa como Concluída
 4. Exibir Tarefas
 5. Sair
-Escolha uma opção: 3
+
+**Escolha uma opção:** 3
+
 **Digite o índice da tarefa a ser marcada como concluída:** 0
+
 ---
 
  Aplicativo de Lista de Tarefas 
@@ -81,18 +96,26 @@ Escolha uma opção: 3
 3. Marcar Tarefa como Concluída
 4. Exibir Tarefas
 5. Sair
-Escolha uma opção: 4
+
+**Escolha uma opção:** 4
+
 0. [x] Ir ao Mercado Armazem
 1. [ ] Ir ao Banco Pegar Dinheiro
+
 ---
- Aplicativo de Lista de Tarefas
+
+Aplicativo de Lista de Tarefas
 1. Adicionar Tarefa
 2. Remover Tarefa
 3. Marcar Tarefa como Concluída
 4. Exibir Tarefas
 5. Sair
-Escolha uma opção:2
+
+**Escolha uma opção:** 2
+
+
 **Digite o índice da tarefa a ser removida :** 0
+
 ---
  Aplicativo de Lista de Tarefas
 1. Adicionar Tarefa
@@ -100,6 +123,8 @@ Escolha uma opção:2
 3. Marcar Tarefa como Concluída
 4. Exibir Tarefas
 5. Sair
-Escolha uma opção:4
+
+**Escolha uma opção:** 4
+
 1. [ ] Ir ao Banco Pegar Dinheiro
 
